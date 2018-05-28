@@ -3,5 +3,10 @@
     "level": 1,
     "moves": 15,
     "score": 500
+  },
+  {
+    "level": 2,
+    "moves": 15,
+    "score": 250
   }
 ]
