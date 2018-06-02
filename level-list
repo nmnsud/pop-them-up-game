@@ -8,5 +8,10 @@
 		"level": 2,
 		"moves": 15,
 		"score": 250
+	},
+	{
+		"level": 42,
+		"moves": 40,
+		"score": 800
 	}
 ]
